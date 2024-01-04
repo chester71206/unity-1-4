@@ -1,0 +1,11 @@
+[show]
+[audio,BGM,BGM_Dead,true,0,audioTransit_1_2000]
+[image,playerDead,playerDead,0,0,100,spFadeIn_1000]
+<color="red"><size=100>你   </size></color>[wait,500]
+<color="red"><size=100>死   </size></color>[wait,500]
+<color="red"><size=100>了   </size></color>[wait,500]
+<color="red"><size=100>！   </size></color>[w]
+
+重新再來嗎？[w]
+[remove,playerDead,spFadeOut_1000]
+[hide]

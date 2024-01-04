@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bomb
+  - ground
+  - monster
+  - hot_water
+  - skull
+  - FxTemporaire
+  - sword
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ground
+  - particle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 1683168907
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 1257459393
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 700180491
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 317571559
+    locked: 0
+  - name: New Layer 5
+    uniqueID: 3373901723
+    locked: 0
+  - name: New Layer 6
+    uniqueID: 3518319529
+    locked: 0
+  - name: laser
+    uniqueID: 922394391
+    locked: 0

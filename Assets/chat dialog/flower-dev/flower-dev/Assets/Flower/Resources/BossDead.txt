@@ -1,0 +1,17 @@
+[show]
+[audio,BGM,BGM_BossDead,true,0,audioTransit_1_2000]
+當最後一擊終結了這場異世界的對決，[lr]
+蛋頭站在靜謐的金字塔內。[w]
+他感到一絲的虛弱，[lr]
+因為這場勝利不僅消耗了他所有的體力，也考驗了他的靈魂[wait,500].[wait,500].[wait,500].[w]
+
+[image,playerSit,playerSit,0,0,100,spFadeIn_1000]
+蛋頭坐了下來，[lr]
+靠在一塊刻滿象形文字的石壁上，試圖理解這一切的意義。[w]
+他原以為打敗這個外星生物會立刻恢復世界的光明，但事實卻非如此簡單。[w]
+黑暗仍舊籠罩著這個古老的墓室[w]
+黑暗仍舊籠罩著這個世界[wait,500]....[wait,500]...[wait,500]..[w]
+[remove,playerSit,spFadeOut_1000]
+
+未完待續[wait,500]。[wait,500]。[wait,500]。[w]
+[hide]

@@ -1,0 +1,8 @@
+[show]
+[audio,BGM,BGM_Boss,true,0,audioTransit_1_2000]
+
+蛋頭一開始只是出於對古文明的興趣，探索著金字塔。[w]
+
+你 準備好了嗎?按空白建再按J進入BOSS畫面!![w]
+[remove,BGM]
+[hide]
